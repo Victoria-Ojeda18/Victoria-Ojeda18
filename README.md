@@ -10,7 +10,7 @@
 ### Estudiante de Programación :> 18 Años
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-<ul>Me gusta gacer páginas web y aplicaciones geniales.</ul>
+<ul>Me gusta hacer páginas web y aplicaciones geniales.</ul>
 <ul>📚   Amo StarWars, Harry Potter y todas las sagas largas.</ul>
 <ul>Me gusta el trabajo individual.</ul>
 
@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,linux,mysql,nodejs,py,react,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,linux,mysql,nodejs,py,react,vscode,java,&perline=14" />
   </a>
 </p>
 
