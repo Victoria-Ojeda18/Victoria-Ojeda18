@@ -40,7 +40,7 @@
 
 
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Mira que lindos pajaritos:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
