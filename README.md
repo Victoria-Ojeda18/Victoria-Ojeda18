@@ -1,3 +1,12 @@
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+
+<h1 align="center">Holis, soy Victoria Ojeda<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">Programadora de San Martin de los Andes.</h3>
+
+
+
 ### Estudiante de Programación :> Victoria Ojeda
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
