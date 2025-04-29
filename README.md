@@ -7,7 +7,7 @@
 
 
 
-### Estudiante de Programación :> Victoria Ojeda
+### Estudiante de Programación :> 18 Años
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 <ul>Me gusta gacer páginas web y aplicaciones geniales.</ul>
